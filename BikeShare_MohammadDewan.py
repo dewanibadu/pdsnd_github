@@ -51,14 +51,14 @@ df.info()
 
 
 #For duplicat values
-df.duplicated().sum()
+df.duplicated()
 
 
 # In[23]:
 
 
 # How many missing values
-df.isnotnull().sum()
+df.isnotnull()
 
 
 # In[24]:
