@@ -51,7 +51,7 @@ df.info()
 
 
 #For duplicat values
-df.duplicated().sum()
+df.duplicated()
 
 
 # In[23]:
