@@ -16,7 +16,7 @@ a) chicago.csv,
 b) new_work_city.csv, and 
 c) washinton.csv
 
-### Credits
+### Credits:
 1. Udacity.
 2. Pandas.
 3. HA Australia.
