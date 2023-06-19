@@ -58,7 +58,7 @@ df.duplicated()
 
 
 # How many missing values
-df.isnotnull().sum()
+df.isnotnull()
 
 
 # In[24]:
