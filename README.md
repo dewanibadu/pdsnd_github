@@ -19,4 +19,4 @@ c) washinton.csv
 ### Credits
 1. Udacity.
 2. Pandas.
-3. HA Australia
+3. HA Australia.
