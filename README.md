@@ -10,7 +10,7 @@ Udacity BikeShare Project Solution - Basic Data Analysis with Pandas
 BikeShare project provides consumers insights on sharing bikes in three major U.S. cities- Chicago, Washinton and New York 
 in descriptive statistics using Pandas library in Python
 
-### Files used
+### Files used:
 There are three data files used in this project: 
 a) chicago.csv, 
 b) new_work_city.csv, and 
